@@ -1,1 +1,1 @@
-# Soundify
+🎵 Soundify- React & Tailwind CSS App
